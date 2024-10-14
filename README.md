@@ -19,3 +19,6 @@ As a dedicated and results-driven professional, I am committed to achieving comp
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=machine-learning&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-00599C?style=flat&logo=deep-learning&logoColor=white)
