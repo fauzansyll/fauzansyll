@@ -4,7 +4,7 @@ A passionate man for enhancing customer acquisition through the development of s
 
 My journey in Front-end Engineer has been enriched by active participation in informatics engineering events, Google Developer Student Clubs at Mercu Buana University and a few internships for respective role. These experiences have honed my technical skills and allowed me to share my knowledge with other engineering communities.
 
-As a dedicated and results-driven professional, I am committed to achieving company objectives and taking on responsibilities with efficiency and precision. I aim to apply my academic and practical knowledge to contribute effectively to a dynamic and innovative team.
+As a dedicated and results-driven professional, I am committed to achieving company objectives and taking on responsibilities with efficiency and precision. I aim to apply my academic and practical knowledge to contribute effectively to a dynamic and innovative team for communities
 
 ## Tech Stack:
 
